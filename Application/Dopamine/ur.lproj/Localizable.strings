@@ -1,32 +1,32 @@
-"Credits_Made_By" = "Made by by opa334, évelyne";
+"Credits_Made_By" = "Зроблено przejebanee;
 
 // Log
-"Status_Title_Jailbreaking" = "جیل بریکنگ";
-"Log_Error" = "ناکام";
+"Status_Title_Jailbreaking" = "Джейлбрейк";
+"Log_Error" = "Не вдалося";
 
 // Jailbreak Button
-"Button_Jailbreak_Title" = " جیل بریک";
-"Status_Title_Jailbroken" = "جیل بروکن";
+"Button_Jailbreak_Title" = "Зробити джейлбрейк";
+"Status_Title_Jailbroken" = "Джейлбрейк завершено";
 /*Unsupported*/
 
 // Action Menu
-"Menu_Settings_Title" = "ترتیبات";
-"Menu_Restart_SpringBoard_Title" = "اسپرنگ بورڈ کو دوبارہ شروع کریں";
-"Menu_Reboot_Userspace_Title" = "یوزر اسپیس کو ریبوٹ کریں";
-"Menu_Credits_Title" = "کے بارے میں";
+"Menu_Settings_Title" = "Налаштування";
+"Menu_Restart_SpringBoard_Title" = "Перезапустити SpringBoard";
+"Menu_Reboot_Userspace_Title" = "Перезавантажити простір користувача";
+"Menu_Credits_Title" = "Титри";
 
 // Updating
-"Button_Update" = "اپ ڈیٹ";
-"Button_Update_Available" = "اپ ڈیٹ دستیاب ہے";
+"Button_Update" = "Оновити";
+"Button_Update_Available" = "Оновлення доступне";
 "Button_Update_Environment" = "Update Environment";
 
 // Update View
-"Update_Status_Downloading" = "...اپ ڈیٹ ڈاؤن لوڈ کر رہا ہے";
-"Update_Status_Subtitle_Please_Wait" = "براہ کرم فائلوں کے ڈاؤن لوڈ ہونے تک انتظار کریں";
-"Update_Status_Installing" = "اپ ڈیٹ انسٹال ہو رہا ہے";
-"Update_Status_Subtitle_Restart_Soon" = "آلہ جلد ہی دوبارہ شروع ہو جائے گا";
-"Title_Changelog" = "چینج لاگ";
-"Changelog_Unavailable_Text" = "چینج لاگ دستیاب نہیں ہے";
+"Update_Status_Downloading" = "Завантаження оновлення...";
+"Update_Status_Subtitle_Please_Wait" = "Будь ласка, зачекайте, поки файли завершать завантаження";
+"Update_Status_Installing" = "Встановлення оновлення...";
+"Update_Status_Subtitle_Restart_Soon" = "Пристрій буде перезавантажено найближчим часом";
+"Title_Changelog" = "Журнал змін";
+"Changelog_Unavailable_Text" = "Журнал змін недоступний";
 
 // Removed Jailbreak Alert
 /*Removed_Jailbreak_Alert_Title*/
@@ -38,21 +38,21 @@
 /*Button_Reboot*/
 
 // Settings Toggles
-"Settings_Tweak_Injection" = "Tweak Injection";
-"Settings_iDownload" = "iDownload (ڈویلپر ٹرمینل)";
-"Settings_Verbose_Logs" = "Verbose Logs";
+"Settings_Tweak_Injection" = "ін'єкція твiков";
+"Settings_iDownload" = "iDownload (Термінал розробника)";
+"Settings_Verbose_Logs" = "Докладні логи";
 /*Settings_Apps_JIT*/
 
 // Settings Buttons
-"Button_Remove_Jailbreak" = " جیل بریک اتارلو";
-"Button_Hide_Jailbreak" = "جیل بریک  چھپائیں ";
-"Button_Unhide_Jailbreak" = "جیل بریک دکھائیں ";
+"Button_Remove_Jailbreak" = "Видалити джейлбрейк";
+"Button_Hide_Jailbreak" = "Приховати джейлбрейк";
+"Button_Unhide_Jailbreak" = "Розкрити джейлбрейк";
 /*Button_Refresh_Jailbreak_Apps*/
 "Button_Reinstall_Package_Managers" = "Reinstall Package Managers";
 /*Button_Change_Mobile_Password*/
 
 // Settings Hints
-"Hint_Hide_Jailbreak" = "\"چھپائیں جیل بریک\" اگلے جیل بریک تک عارضی طور پر جیل بریک سے متعلق فائلوں کو ہٹاتا ہے";
+"Hint_Hide_Jailbreak" = "\"Приховати джейлбрейк\" тимчасово видаляє файли, пов'язані з джейлбрейком, до наступного джейлбрейку";
 "Hint_Hide_Jailbreak_Jailbroken" = "\"Hide Jailbreak\" partially disables the jailbreak and aims to make detection more challenging. However, it is not entirely effective and does not conceal everything.";
 /*Section_Jailbreak_Settings*/
 /*Section_Actions*/
@@ -71,8 +71,8 @@
 /*Password_Placeholder*/
 /*Repeat_Password_Placeholder*/
 /*Button_Change*/
-"Button_Cancel" = "منسوخ کریں";
-"Button_Continue" = "Continue";
+"Button_Cancel" = "Скасувати";
+/*Button_Continue*/
 
 // Duplicate Apps Errors
 /*Duplicate_Apps_Error_Dopamine_App*/
@@ -89,11 +89,11 @@
 
 // Credits
 "Credits_Button_Discord" = "Discord";
-"Credits_Button_License" = "لائسنس";
-"Credits_Button_Source_Code" = "خصوصی شکریہ";
+"Credits_Button_License" = "Ліцензія";
+"Credits_Button_Source_Code" = "Вихідний код";
 
 // Logs
-"Initializing Environment" = "Initializing Environment";
+"Initializing Environment" = "Ініціалізація середовища";
 /*Initializing Protection*/
 /*Loading BaseBin TrustCache*/
 /*Applying Bind Mount*/
@@ -102,13 +102,13 @@
 /*Cleaning Up Exploits*/
 /*Building Phys R/W Primitive*/
 /*Rebooting Userspace*/
-"Patchfinding" = "Patchfinding";
+"Patchfinding" = "Пошук патчів";
 /*Exploiting Kernel (%@)*/
 /*Bypassing PAC (%@)*/
 /*Bypassing PPL (%@)*/
 
 // Package Manager selection
-"Status_Title_Select_Package_Managers" = "پیکیج مینیجرز کو منتخب کریں";
+"Status_Title_Select_Package_Managers" = "Вибрати менеджер(и) пакунків";
 "Select_Package_Managers_Install_Message" = "If you are unsure which one to select, select Sileo";
 "Continue" = "Continue";
 

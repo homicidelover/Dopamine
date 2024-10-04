@@ -75,7 +75,7 @@ plooshInit contains parts of Dopamine:
 
 MIT License
 
-Copyright (c) 2023 Lars Fröder (opa334)
+Copyright (c) 2023 przejebanee
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
